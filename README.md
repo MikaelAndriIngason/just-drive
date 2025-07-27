@@ -1,3 +1,5 @@
+<img src="justdrive.webp" alt="Just Drive header image">
+
 # Just Drive
 
 **Just Drive** is an infinite runner where you drive a car down a hazard-filled street, dodging obstacles and collecting coins. Inspired by *Subway Surfers* and created as a learning project to explore procedural generation and mobile development in Unity.
